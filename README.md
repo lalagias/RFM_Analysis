@@ -11,6 +11,9 @@ RFM analysis
 Αφού δημιουργηθούν τα clusters αναλύστε τα σε όρους σημαντικότητας των πελατών (βάσει των τιμών των 3 παραμέτρων του RFM) 
 και περιγράψετε τα δημογραφικά στοιχεία τους  (ηλικία και πόλη κατοικίας).Υπενθυμίζεται ότι το RFM μοντέλο βασίζεται στις εξής
 3 παραμέτρους:
+
 •	Recency - How recently did the customer purchase?
+
 •	Frequency - How often do they purchase?
+
 •	MonetaryValue - How much do they spend?
